@@ -1,0 +1,26 @@
+{
+    "name": "bold-commerce/module-checkout-payment-booster-onestepcheckoutiosc-compatibility",
+    "description": "Compatibility module for Bold Payment Booster integration for Adobe Commerce with Onestepcheckout Iosc",
+    "type": "magento2-module",
+    "license": [
+        "MIT"
+    ],
+    "version": "1.0.0",
+    "require": {
+        "magento/framework": ">=102.0.1 <103.0.8",
+        "magento/module-checkout": ">=100.3.1 <100.4.8",
+        "magento/module-customer": ">=102.0.1 <103.0.8",
+        "magento/module-page-cache": ">=100.3.1 <100.4.8",
+        "magento/module-quote": ">=101.1.1 <101.2.8",
+        "magento/module-store": ">=101.0.1 <101.1.8",
+        "bold-commerce/module-checkout-payment-booster": "^2.3.1"
+    },
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Bold\\OnestepcheckoutIoscCompatibility\\": ""
+        }
+    }
+}

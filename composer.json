@@ -1,6 +1,6 @@
 {
     "name": "bold-commerce/module-booster-onestepcheckout-compatibility",
-    "description": "Compatibility module for Bold Payment Booster integration for Adobe Commerce with Onestepcheckout Iosc",
+    "description": "Compatibility module for Bold Payment Booster integration for One Step Checkout",
     "type": "magento2-module",
     "license": [
         "MIT"

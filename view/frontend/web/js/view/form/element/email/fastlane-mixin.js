@@ -2,7 +2,7 @@ define(
     [
         'Bold_CheckoutPaymentBooster/js/view/form/element/email/fastlane-mixin',
         'Bold_CheckoutPaymentBooster/js/model/fastlane',
-        'Bold_OnestepcheckoutIoscCompatibility/js/action/hide-billing-address'
+        'Bold_BoosterOneStepCheckoutCompatibility/js/action/hide-billing-address'
     ], function (
         fastlaneMixin,
         fastlane,

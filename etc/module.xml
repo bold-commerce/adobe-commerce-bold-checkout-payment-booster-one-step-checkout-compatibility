@@ -3,6 +3,7 @@
         xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
     <module name="Bold_OnestepcheckoutIoscCompatibility">
         <sequence>
+            <module name="Onestepcheckout_Iosc"/>
             <module name="Bold_CheckoutPaymentBooster"/>
         </sequence>
     </module>

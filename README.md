@@ -1,1 +1,1 @@
-# module-checkout-payment-booster-onestepcheckoutiosc-compatibility
+# bold-commerce/module-booster-onestepcheckout-compatibility

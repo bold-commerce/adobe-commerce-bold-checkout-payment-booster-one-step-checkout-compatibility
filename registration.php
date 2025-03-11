@@ -4,6 +4,6 @@ use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Bold_OnestepcheckoutIoscCompatibility',
+    'Bold_BoosterOnestepcheckoutCompatibility',
     __DIR__
 );
